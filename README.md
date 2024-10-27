@@ -14,5 +14,3 @@ Project contributors:
 - Responsible for the design:
   - Pavel Ovchinnikov
   - Bykovskaya Agnia  
-
-The lab #3 video files are located [here](https://drive.google.com/drive/folders/1Op2AZX3iQSxnUE6IErnJP2hlBh7RhzQB?hl=ru) 
